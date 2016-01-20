@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="c99c5f2a-3dd6-47e6-88b9-c26edbea0bb6" 
+        solutionId="c99c5f2a-3dd6-47e6-88b9-c26edbea0bb6" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="PeopleApp"
+        sharePointProductVersion="15.0">
+  <features>
+        <featureReference itemId="72de3c5b-a951-4bc5-a25e-2155515050c0" />
+  </features>
+</package>

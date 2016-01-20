@@ -1,0 +1,6 @@
+c:\users\atish\documents\visual studio 2013\Projects\PeopleApp\PeopleApp\bin\Debug\PeopleApp.pdb
+c:\users\atish\documents\visual studio 2013\Projects\PeopleApp\PeopleApp\obj\Debug\PeopleApp.dll
+c:\users\atish\documents\visual studio 2013\Projects\PeopleApp\PeopleApp\obj\Debug\PeopleApp.pdb
+D:\Atish\New folder\sharepoint-2013\PeopleApp\PeopleApp\bin\Debug\PeopleApp.pdb
+D:\Atish\New folder\sharepoint-2013\PeopleApp\PeopleApp\obj\Debug\PeopleApp.dll
+D:\Atish\New folder\sharepoint-2013\PeopleApp\PeopleApp\obj\Debug\PeopleApp.pdb
