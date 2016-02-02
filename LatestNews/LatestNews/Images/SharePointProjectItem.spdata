@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" DefaultFile="Elements.xml" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Target="Images\" Type="ElementManifest" />
+    <ProjectItemFile Source="AppIcon.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="active-nav-border.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="blue-btn.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="blue-btn2x.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="blue-btn-mobile.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="body.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="bullet.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="bullet-footer-col.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="col-separator.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="cols-img.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="cols-img2.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="cols-img3.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="control-nav.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="control-nav-bg.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="control-nav-mobile.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="favicon.ico" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="footer-cols.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="footer-nav-border.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="header.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="header-2x.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="header-b.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="header-cnt.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="header-i.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="header-mobile.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="header-t.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="header-tablet.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="i-img.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="logo.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="logo-2x.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="logo-mobile.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="logo-tablet.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="main-shadow.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="main-shadow-bottom.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="mobile-section-shadow.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="mobile-section-shadow2x.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="nav-arr.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="nav-arr2x.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="nav-arr-active.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="post-img.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="post-img2.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="post-img3.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="section-shadow.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="sidebar-list-border.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="slide-img.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="slider.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="slider-mobile.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="slider-mobile2x.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="slider-tablet.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="tablet-section-shadow.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="top-nav-shadow.png" Target="Images\" Type="ElementFile" />
+  </Files>
+</ProjectItem>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Images">
+    <File Path="Images\AppIcon.png" Url="Images/AppIcon.png" ReplaceContent="TRUE" />
+    <File Path="Images\active-nav-border.png" Url="Images/active-nav-border.png" ReplaceContent="TRUE" />
+    <File Path="Images\blue-btn.png" Url="Images/blue-btn.png" ReplaceContent="TRUE" />
+    <File Path="Images\blue-btn2x.png" Url="Images/blue-btn2x.png" ReplaceContent="TRUE" />
+    <File Path="Images\blue-btn-mobile.png" Url="Images/blue-btn-mobile.png" ReplaceContent="TRUE" />
+    <File Path="Images\body.png" Url="Images/body.png" ReplaceContent="TRUE" />
+    <File Path="Images\bullet.png" Url="Images/bullet.png" ReplaceContent="TRUE" />
+    <File Path="Images\bullet-footer-col.png" Url="Images/bullet-footer-col.png" ReplaceContent="TRUE" />
+    <File Path="Images\col-separator.png" Url="Images/col-separator.png" ReplaceContent="TRUE" />
+    <File Path="Images\cols-img.png" Url="Images/cols-img.png" ReplaceContent="TRUE" />
+    <File Path="Images\cols-img2.png" Url="Images/cols-img2.png" ReplaceContent="TRUE" />
+    <File Path="Images\cols-img3.png" Url="Images/cols-img3.png" ReplaceContent="TRUE" />
+    <File Path="Images\control-nav.png" Url="Images/control-nav.png" ReplaceContent="TRUE" />
+    <File Path="Images\control-nav-bg.png" Url="Images/control-nav-bg.png" ReplaceContent="TRUE" />
+    <File Path="Images\control-nav-mobile.png" Url="Images/control-nav-mobile.png" ReplaceContent="TRUE" />
+    <File Path="Images\favicon.ico" Url="Images/favicon.ico" ReplaceContent="TRUE" />
+    <File Path="Images\footer-cols.png" Url="Images/footer-cols.png" ReplaceContent="TRUE" />
+    <File Path="Images\footer-nav-border.png" Url="Images/footer-nav-border.png" ReplaceContent="TRUE" />
+    <File Path="Images\header.png" Url="Images/header.png" ReplaceContent="TRUE" />
+    <File Path="Images\header-2x.png" Url="Images/header-2x.png" ReplaceContent="TRUE" />
+    <File Path="Images\header-b.png" Url="Images/header-b.png" ReplaceContent="TRUE" />
+    <File Path="Images\header-cnt.png" Url="Images/header-cnt.png" ReplaceContent="TRUE" />
+    <File Path="Images\header-i.png" Url="Images/header-i.png" ReplaceContent="TRUE" />
+    <File Path="Images\header-mobile.png" Url="Images/header-mobile.png" ReplaceContent="TRUE" />
+    <File Path="Images\header-t.png" Url="Images/header-t.png" ReplaceContent="TRUE" />
+    <File Path="Images\header-tablet.png" Url="Images/header-tablet.png" ReplaceContent="TRUE" />
+    <File Path="Images\i-img.png" Url="Images/i-img.png" ReplaceContent="TRUE" />
+    <File Path="Images\logo.png" Url="Images/logo.png" ReplaceContent="TRUE" />
+    <File Path="Images\logo-2x.png" Url="Images/logo-2x.png" ReplaceContent="TRUE" />
+    <File Path="Images\logo-mobile.png" Url="Images/logo-mobile.png" ReplaceContent="TRUE" />
+    <File Path="Images\logo-tablet.png" Url="Images/logo-tablet.png" ReplaceContent="TRUE" />
+    <File Path="Images\main-shadow.png" Url="Images/main-shadow.png" ReplaceContent="TRUE" />
+    <File Path="Images\main-shadow-bottom.png" Url="Images/main-shadow-bottom.png" ReplaceContent="TRUE" />
+    <File Path="Images\mobile-section-shadow.png" Url="Images/mobile-section-shadow.png" ReplaceContent="TRUE" />
+    <File Path="Images\mobile-section-shadow2x.png" Url="Images/mobile-section-shadow2x.png" ReplaceContent="TRUE" />
+    <File Path="Images\nav-arr.png" Url="Images/nav-arr.png" ReplaceContent="TRUE" />
+    <File Path="Images\nav-arr2x.png" Url="Images/nav-arr2x.png" ReplaceContent="TRUE" />
+    <File Path="Images\nav-arr-active.png" Url="Images/nav-arr-active.png" ReplaceContent="TRUE" />
+    <File Path="Images\post-img.png" Url="Images/post-img.png" ReplaceContent="TRUE" />
+    <File Path="Images\post-img2.png" Url="Images/post-img2.png" ReplaceContent="TRUE" />
+    <File Path="Images\post-img3.png" Url="Images/post-img3.png" ReplaceContent="TRUE" />
+    <File Path="Images\section-shadow.png" Url="Images/section-shadow.png" ReplaceContent="TRUE" />
+    <File Path="Images\sidebar-list-border.png" Url="Images/sidebar-list-border.png" ReplaceContent="TRUE" />
+    <File Path="Images\slide-img.png" Url="Images/slide-img.png" ReplaceContent="TRUE" />
+    <File Path="Images\slider.png" Url="Images/slider.png" ReplaceContent="TRUE" />
+    <File Path="Images\slider-mobile.png" Url="Images/slider-mobile.png" ReplaceContent="TRUE" />
+    <File Path="Images\slider-mobile2x.png" Url="Images/slider-mobile2x.png" ReplaceContent="TRUE" />
+    <File Path="Images\slider-tablet.png" Url="Images/slider-tablet.png" ReplaceContent="TRUE" />
+    <File Path="Images\tablet-section-shadow.png" Url="Images/tablet-section-shadow.png" ReplaceContent="TRUE" />
+    <File Path="Images\top-nav-shadow.png" Url="Images/top-nav-shadow.png" ReplaceContent="TRUE" />
+  </Module>
+</Elements>
